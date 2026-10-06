@@ -1,9 +1,7 @@
 # Software Engineering Process: Invoice Model Design (Part A)
 
 ## 💡 Overview
-This project, **Part A: Invoice**, is the first in a series dedicated to practicing the complete Software Engineering design process. The objective is to analyze requirements for an invoice application and translate those requirements into a robust Object-Oriented design.
-
-The core functionality models an invoice composed of multiple `LineItem` objects, where each line item calculates its subtotal based on a specific `Product` and quantity.
+This application is a desktop invoice generator designed with Java Swing and object-oriented architecture. The system models structured business billing by computing subtotals across individual `LineItem` objects—each composed of specific `Product` entries and quantities—and rendering the aggregated financial data into a clean, formatted invoice view.
 
 ## 🎯 Design Process & Deliverables
 This project demonstrates the following stages of the software engineering process:
