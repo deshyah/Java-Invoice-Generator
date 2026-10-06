@@ -1,4 +1,4 @@
-# Software Engineering Process: Invoice Model Design (Part A)
+# Java-Invoice-Generator
 
 ## 💡 Overview
 This application is a desktop invoice generator designed with Java Swing and object-oriented architecture. The system models structured business billing by computing subtotals across individual `LineItem` objects—each composed of specific `Product` entries and quantities—and rendering the aggregated financial data into a clean, formatted invoice view.
